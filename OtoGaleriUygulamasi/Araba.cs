@@ -24,7 +24,6 @@ namespace OtoGaleriUygulamasi
             Marka = marka;
             KiralamaBedeli = kiralamaBedeli;
             AracTipi = aractipi;
-            Durum = "Galeride";
         }
 
 
